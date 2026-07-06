@@ -2,7 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Heart_Disease_Dashboard.png)
+![Dashboard Preview](Heart_Disease_Dashboard.jpg)
 
 An interactive Power BI dashboard that analyzes patient survival, age groups, and health factors like diabetes and cancer to deliver meaningful healthcare insights through dynamic visualizations and KPIs. ❤️📈
 # ❤️ Heart Disease Dashboard | Power BI
